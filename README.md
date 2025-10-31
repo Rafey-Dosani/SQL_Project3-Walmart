@@ -5,4 +5,4 @@
 
 ## Project Overview
 
-![Project Pipeline](https://github.com/Rafey-Dosani/SQL_Project1-Walmart/blob/main/walmart_project-IMG.png)
+![Project Pipeline](https://github.com/Rafey-Dosani/SQL_Project3-Walmart/blob/main/walmart_project-IMG.png)
